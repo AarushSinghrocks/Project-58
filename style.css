@@ -1,0 +1,18 @@
+body{
+  text-align:center;
+  background:linear-gradient(#76FF03,#26C6DA,#FFEA00);
+}
+#myfavourite{
+  text-shadow:2px 2px #6200EA;
+  font-size:20px;
+  font-family: 'Yuji Hentaigana Akebono', cursive;
+}
+#bio{
+  padding:20px;
+  font-size:20px;
+  text-align:center;
+}
+img{
+  border-radius:50%;
+  border-width:100px;
+}
